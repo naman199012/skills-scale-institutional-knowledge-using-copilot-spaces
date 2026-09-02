@@ -4,7 +4,7 @@ Welcome to OctoAcme's project management documentation. This folder serves as th
 
 ## Quick start
 
-New to OctoAcme? Start with the Project Management Overview for a high-level introduction to our principles, roles, and lifecycle. For initiating new work, use the Project Initiation Guide to create a one‑pager and confirm go/no‑go decisions. Planning converts approved initiatives into a prioritized, estimated backlog with clear acceptance criteria. Execution is coordinated through an explicit project board and a Pull Request workflow that enforces small changes, CI, and peer review. Releases follow a standardized checklist (pre‑release smoke tests, rollback plans, release notes), and retrospectives capture learnings and action items to continuously improve.
+New to OctoAcme? Start with the [Project Management Overview](./octoacme-project-management-overview.md) for a high-level introduction to our principles, roles, and lifecycle. For initiating new work, use the Project Initiation Guide to create a one‑pager and confirm go/no‑go decisions. Planning converts approved initiatives into a prioritized, estimated backlog with clear acceptance criteria. Execution is coordinated through an explicit project board and a Pull Request workflow that enforces small changes, CI, and peer review. Releases follow a standardized checklist (pre‑release smoke tests, rollback plans, release notes), and retrospectives capture learnings and action items to continuously improve.
 
 ## Project Management Processes — Overview
 
